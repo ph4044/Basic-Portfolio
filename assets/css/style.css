@@ -1,0 +1,37 @@
+.container{
+    width: 960px;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+header{
+    background-color: #fff;
+}
+
+nav{
+    float:right;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+h1{
+    float:left;
+    width:20%;
+    height: 60px;
+    background-color: aquamarine;
+    text-align: center;
+    margin: auto;
+    
+}
+
+section{
+}
